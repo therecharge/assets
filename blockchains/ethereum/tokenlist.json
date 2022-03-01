@@ -3464,16 +3464,6 @@
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xf4d2888d29D722226FafA5d9B24F9164c092421E/logo.png",
             "pairs": []
-        },
-        {
-            "asset": "c60_t0xe74bE071f3b62f6A4aC23cA68E5E2A39797A3c30",
-            "type": "ERC20",
-            "address": "0xe74bE071f3b62f6A4aC23cA68E5E2A39797A3c30",
-            "name": "The Recharge",
-            "symbol": "RCG",
-            "decimals": 18,
-            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xe74bE071f3b62f6A4aC23cA68E5E2A39797A3c30/logo.png",
-            "pairs": []
         },        
         {
             "asset": "c60_t0x1E4EDE388cbc9F4b5c79681B7f94d36a11ABEBC9",
@@ -3484,7 +3474,17 @@
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x1E4EDE388cbc9F4b5c79681B7f94d36a11ABEBC9/logo.png",
             "pairs": []
-        }
+        },
+        {
+            "asset": "c60_t0xe74bE071f3b62f6A4aC23cA68E5E2A39797A3c30",
+            "type": "ERC20",
+            "address": "0xe74bE071f3b62f6A4aC23cA68E5E2A39797A3c30",
+            "name": "The Recharge",
+            "symbol": "RCG",
+            "decimals": 18,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xe74bE071f3b62f6A4aC23cA68E5E2A39797A3c30/logo.png",
+            "pairs": []
+        }        
     ],
     "version": {
         "major": 14,
