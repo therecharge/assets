@@ -1,0 +1,11 @@
+{
+    "name": "The Recharge",
+    "symbol": "RCG",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "A decentralized incentive solution that connects electric-charging platforms.",
+    "website": "https://therecharge.io",
+    "explorer": "https://etherscan.io/token/0xe74bE071f3b62f6A4aC23cA68E5E2A39797A3c30",
+    "status": "active",
+    "id": "0xe74bE071f3b62f6A4aC23cA68E5E2A39797A3c30"
+}
